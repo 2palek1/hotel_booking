@@ -4,3 +4,4 @@ __pycache__
 .env-non-dev
 /static/images/*.webp
 .pytest_cache
+venv
